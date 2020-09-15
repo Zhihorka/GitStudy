@@ -1,0 +1,68 @@
+.wrapper{
+    height: 510px;
+    width: 435px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+.CloseButton{
+    position: relative;
+    top: 10px;
+    left: 400px;
+}
+
+.MainLabel{
+    color: black;
+    padding-bottom: 20px;
+    margin-left: 30px;
+}
+
+.PhoneInputLabel{
+    color: gray;
+    margin-left: 30px;
+}
+
+.PhoneInput{
+    width: auto;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-bottom: 30px;
+}
+
+.SecurityCodeInput{
+    width: auto;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-bottom: 10px;
+}
+
+.CheckBox{
+    width: auto;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-bottom: 20px;
+}
+
+.Button{
+    width: auto;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-bottom: 30px;
+}
+
+.FirstTime{
+    color: gray;
+}
+
+.FirstTime{
+    padding-right: 10px;
+    font-size: 20px;
+}
+
+.Register{
+    font-size: 20px;
+}
+
+.BottomLabel{
+    text-align: center;
+}

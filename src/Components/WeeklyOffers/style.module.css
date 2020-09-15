@@ -1,0 +1,34 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: 1fr 14fr 1fr;
+    grid-template-rows: 1fr;
+    gap: 1px 1px;
+    grid-template-areas: ". o .";
+    position: relative;
+    padding-top: 30px;
+}
+
+.offers{
+    grid-area: o;
+}
+
+.navText{
+    display: inline-flex;
+}
+
+.navButton{
+    display: inline-flex;
+    float: right;
+    position: relative;
+    left: -30px;
+
+}
+
+.navigation{
+    display: inline-flex;
+}
+
+.leftArrow{
+   position: relative;
+   left: -20px;
+}

@@ -1,0 +1,49 @@
+.wrapper{
+    padding: 0;
+    margin: 0;
+    height: 60px;
+    background-color: #a4d63f;
+    width: 100%;
+    border: 0;
+}
+
+.selectedButton{
+    text-decoration: none;
+    padding: -5px -5px  10px 10px;
+}
+
+.buttons{
+    position: relative;
+    padding-left: 30px;
+    top: 5px;
+}
+
+.menuButton{
+    display: inline-flex;
+}
+
+.more{
+    display: inline-flex;
+    float: right;
+    position: relative;
+    left: -30px;
+}
+
+.selected{
+    color: black;
+    font-size: 1.5rem;
+    font-size: 20px;
+
+}
+
+.unselected{
+    padding-left: 15px;
+    color: rgb(218, 45, 45);
+    font-size: 1.5rem;
+    font-size: 20px;
+}
+
+.moreButton{
+    position: relative;
+    top: 4px;
+}

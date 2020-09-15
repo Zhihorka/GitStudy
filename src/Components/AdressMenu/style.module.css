@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+
+.selectAdress{
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.selectAdressItem{
+    display: inline-flex;
+}
+
+.selectAdressIcon{
+    display: inline-flex;
+    position: relative;
+    padding-top: 0px;
+}
